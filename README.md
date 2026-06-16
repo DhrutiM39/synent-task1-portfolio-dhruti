@@ -114,35 +114,6 @@ synent/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Any modern web browser (Chrome, Firefox, Safari, Edge)
-- No build tools or dependencies required
-
-### Installation
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/DhrutiM39/synent-task1-Personal-Portfolio-Website-Dhruti.git
-cd synent-task1-Personal-Portfolio-Website-Dhruti
-```
-
-2. **Open in browser:**
-```bash
-# Simply open index.html in your browser
-# Or use a local server for best experience
-python -m http.server 8000
-# Then navigate to http://localhost:8000
-```
-
-3. **Or deploy directly:**
-- Upload files to GitHub Pages
-- Deploy to Netlify or Vercel
-- Host on any static hosting service
-
----
-
 ## 📋 Features in Detail
 
 ### 1. **Theme Toggle**
@@ -300,11 +271,6 @@ Feel free to fork this project and submit pull requests for improvements!
 
 ---
 
-## 📄 License
-
-This project is open source and available under the **MIT License**.
-
----
 
 ## 👤 Author
 
