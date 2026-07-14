@@ -226,7 +226,7 @@ Here are some visual highlights of the Personal Portfolio Website:
 
 ## 🔗 Live Links
 
-- **Portfolio:** [View Live](https://dhruti-movaliya-portfolio.com) *(if deployed)*
+- **Portfolio:** [View Live][(https://dhruti-movaliya-portfolio.com)](https://dhrutim39.github.io/synent-task1-portfolio-dhruti/) *(if deployed)*
 - **GitHub:** [DhrutiM39](https://github.com/DhrutiM39)
 - **LinkedIn:** [Dhruti Movaliya](https://www.linkedin.com/in/dhruti-movaliya)
 
