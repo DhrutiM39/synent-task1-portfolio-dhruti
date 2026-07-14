@@ -189,6 +189,32 @@ synent/
 
 ---
 
+## 📸 Screenshots
+
+Here are some visual highlights of the Personal Portfolio Website:
+
+### 🏠 Home & About Section
+| Home | About |
+| --- | --- |
+| ![Home](screenshot/home.png) | ![About](screenshot/about.png) |
+
+### 🛠️ Skills & Experience
+| Skills | Experience |
+| --- | --- |
+| ![Skills](screenshot/skills.png) | ![Experience](screenshot/expirence.png) |
+
+### 📁 Featured Projects
+| Password Generator | Weather Dashboard | Voice Assistant |
+| --- | --- | --- |
+| ![Password Generator](screenshot/project1.png) | ![Weather Dashboard](screenshot/project2.png) | ![Voice Assistant](screenshot/project3.png) |
+
+### 💬 Contact & Footer
+| Contact & Achievements | Contact Form | Footer |
+| --- | --- | --- |
+| ![Contact & Achievements](screenshot/contact%20&%20achivement.png) | ![Contact](screenshot/contact.png) | ![Footer](screenshot/footar.png) |
+
+---
+
 ## 📊 Performance
 
 - **Lightweight:** No external dependencies
